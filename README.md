@@ -6,7 +6,8 @@ Load an image without using the third-party library from the available response.
 # Requirements to set up the project.
     1. Must have installed Android Studio Iguana | 2023.2.1 Patch 2 OR above.
     2. Have installed JDK version 1.8
-    3. Project compile SDK is 34. So, make sure the API version 34 operating system is installed using Android Studio to build the project.
+    3. Have installed Kotlin version 1.9.0
+    4. Project compile SDK is 34. So, make sure the API version 34 operating system is installed using Android Studio to build the project.
 
 # Fetch the project from this repository.
 
@@ -37,6 +38,7 @@ git clone git@github.com:ParryPatel021/repository.git
 Wait for the Cloning to Complete: Once you've entered the command, Git will clone the repository to your local machine. Depending on the size of the repository and your internet connection speed, this may take a few moments.
 
 5. **Access Your Cloned Repository:** Once the cloning process is complete, you'll have a local copy of the repository in the directory you specified. You can navigate into the cloned repository.
+
 6. **Open it into Android Studio**: Launch an Android Studio and follow below steps:
 ```
 - Goto File -> Open -> [Select the cloned repository directory].
